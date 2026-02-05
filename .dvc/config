@@ -1,0 +1,6 @@
+[core]
+    remote = origin
+['remote "wineremote"']
+    url = ../mlops-demo-dvc-bucket-mohana
+['remote "origin"']
+    url = s3://mlops-demo-dvc-bucket-mohana/data
